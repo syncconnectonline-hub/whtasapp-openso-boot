@@ -20,3 +20,9 @@ crm.json
 
 
 .upload-staging/
+# Local runtime, WhatsApp authorization, and business data
+runtime/
+auth/
+data/
+flutter_app/build/
+node_modules/
