@@ -26,3 +26,6 @@ auth/
 data/
 flutter_app/build/
 node_modules/
+node_modules/
+auth_info*/
+.env
