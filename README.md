@@ -21,3 +21,4 @@ Esta conexión usa Baileys para enlazar mediante QR; es un protocolo no oficial 
 # whtasapp-openso-boot
 # whtasapp-openso-boot
 # whtasapp-openso-boot
+# whtasapp-openso-boot
