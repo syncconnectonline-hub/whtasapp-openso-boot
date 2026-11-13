@@ -18,3 +18,4 @@ Para detener el servidor, cierra la ventana `Sync Connect WhatsApp` o pulsa `Ctr
 
 Esta conexión usa Baileys para enlazar mediante QR; es un protocolo no oficial de WhatsApp y la cuenta puede estar sujeta a restricciones. Las API de OpenAI y Gemini tienen sus propias claves, cuotas y facturación; una suscripción de ChatGPT no incluye crédito de API.
 # whtasapp-openso-boot
+# whtasapp-openso-boot
